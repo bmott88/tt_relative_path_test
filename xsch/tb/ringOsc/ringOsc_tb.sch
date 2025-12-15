@@ -20,13 +20,10 @@ C {devices/code.sym} 200 -50 0 0 {name=SIM only_toplevel=false value="
 .control
 
 tran 0.1p 10n
-plot v(out)
+
+wrdata FILE.csv v(out)
 
 .endc
 .saveall
 "}
-C {devices/code.sym} 330 -50 0 0 {name=MODELS only_toplevel=false value="
-
-.lib /opt/pdk/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice tt
-
-"}
+C {sky130_fd_pr/corner.sym} 330 -50 0 0 {name=CORNER only_toplevel=false corner=tt}

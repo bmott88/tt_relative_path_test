@@ -1,0 +1,120 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/ringosc/ringosc_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+x1.net1                               0.836006
+out                                   0.836006
+net1                                       1.8
+x1.net2                               0.836006
+v1#branch                         -5.11422e-05
+
+ Reference value :  0.00000e+00 Reference value :  2.00000e-15 Reference value :  5.75280e-11 Reference value :  2.11628e-10 Reference value :  3.52328e-10 Reference value :  4.62528e-10 Reference value :  6.03228e-10 Reference value :  7.34228e-10 Reference value :  8.37928e-10 Reference value :  9.90028e-10 Reference value :  1.14963e-09 Reference value :  1.30263e-09 Reference value :  1.42603e-09 Reference value :  1.52353e-09 Reference value :  1.66153e-09 Reference value :  1.81753e-09 Reference value :  1.95093e-09 Reference value :  2.06143e-09 Reference value :  2.18793e-09 Reference value :  2.34333e-09 Reference value :  2.47023e-09 Reference value :  2.58193e-09 Reference value :  2.68553e-09 Reference value :  2.80813e-09 Reference value :  2.95683e-09 Reference value :  3.10863e-09 Reference value :  3.20483e-09 Reference value :  3.34663e-09 Reference value :  3.48893e-09 Reference value :  3.59343e-09 Reference value :  3.71403e-09 Reference value :  3.86153e-09 Reference value :  4.01723e-09 Reference value :  4.12133e-09 Reference value :  4.24953e-09 Reference value :  4.39893e-09 Reference value :  4.55333e-09 Reference value :  4.68713e-09 Reference value :  4.82053e-09 Reference value :  4.97243e-09 Reference value :  5.08753e-09 Reference value :  5.19973e-09 Reference value :  5.30913e-09 Reference value :  5.44923e-09 Reference value :  5.59713e-09 Reference value :  5.71023e-09 Reference value :  5.86033e-09 Reference value :  6.02323e-09 Reference value :  6.16323e-09 Reference value :  6.26623e-09 Reference value :  6.37383e-09 Reference value :  6.48713e-09 Reference value :  6.60003e-09 Reference value :  6.73053e-09 Reference value :  6.86253e-09 Reference value :  6.94173e-09 Reference value :  7.05943e-09 Reference value :  7.16023e-09 Reference value :  7.28313e-09 Reference value :  7.35843e-09 Reference value :  7.41843e-09 Reference value :  7.56593e-09 Reference value :  7.68143e-09 Reference value :  7.77273e-09 Reference value :  7.91343e-09 Reference value :  8.07533e-09 Reference value :  8.16333e-09 Reference value :  8.27973e-09 Reference value :  8.39903e-09 Reference value :  8.55123e-09 Reference value :  8.71423e-09 Reference value :  8.87073e-09 Reference value :  9.00743e-09 Reference value :  9.13863e-09 Reference value :  9.28873e-09 Reference value :  9.42763e-09 Reference value :  9.55383e-09 Reference value :  9.66533e-09 Reference value :  9.77763e-09 Reference value :  9.90893e-09
+No. of Data Rows : 100008
+Note: Simulation executed from .control section 
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/ringosc/ringosc_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+x1.net1                               0.836006
+out                                   0.836006
+net1                                       1.8
+x1.net2                               0.836006
+v1#branch                         -5.11422e-05
+
+ Reference value :  0.00000e+00 Reference value :  4.00000e-15 Reference value :  8.72800e-12 Reference value :  8.66280e-11 Reference value :  1.89528e-10 Reference value :  2.75428e-10 Reference value :  3.94528e-10 Reference value :  5.10128e-10 Reference value :  5.81928e-10 Reference value :  6.82528e-10 Reference value :  8.10928e-10 Reference value :  9.61428e-10 Reference value :  1.09673e-09 Reference value :  1.22723e-09 Reference value :  1.36693e-09 Reference value :  1.50043e-09 Reference value :  1.63673e-09 Reference value :  1.74353e-09 Reference value :  1.84793e-09 Reference value :  1.96873e-09 Reference value :  2.09913e-09 Reference value :  2.20273e-09 Reference value :  2.32173e-09 Reference value :  2.47863e-09 Reference value :  2.60033e-09 Reference value :  2.75733e-09 Reference value :  2.90253e-09 Reference value :  3.02823e-09 Reference value :  3.10543e-09 Reference value :  3.18583e-09 Reference value :  3.30043e-09 Reference value :  3.35123e-09 Reference value :  3.39743e-09 Reference value :  3.49103e-09 Reference value :  3.63583e-09 Reference value :  3.73843e-09 Reference value :  3.86233e-09 Reference value :  3.97973e-09 Reference value :  4.08603e-09 Reference value :  4.22183e-09 Reference value :  4.31433e-09 Reference value :  4.46993e-09 Reference value :  4.57223e-09 Reference value :  4.63733e-09 Reference value :  4.76513e-09 Reference value :  4.90443e-09 Reference value :  5.06433e-09 Reference value :  5.17593e-09 Reference value :  5.27813e-09 Reference value :  5.35003e-09 Reference value :  5.45623e-09 Reference value :  5.58513e-09 Reference value :  5.68943e-09 Reference value :  5.78783e-09 Reference value :  5.89183e-09 Reference value :  6.00023e-09 Reference value :  6.09353e-09 Reference value :  6.09893e-09 Reference value :  6.11643e-09 Reference value :  6.21453e-09 Reference value :  6.29593e-09 Reference value :  6.43933e-09 Reference value :  6.53053e-09 Reference value :  6.65453e-09 Reference value :  6.78243e-09 Reference value :  6.91643e-09 Reference value :  7.03163e-09 Reference value :  7.17873e-09 Reference value :  7.27833e-09 Reference value :  7.37053e-09 Reference value :  7.49003e-09 Reference value :  7.59143e-09 Reference value :  7.69513e-09 Reference value :  7.79773e-09 Reference value :  7.92643e-09 Reference value :  7.99273e-09 Reference value :  8.11013e-09 Reference value :  8.21323e-09 Reference value :  8.36913e-09 Reference value :  8.48833e-09 Reference value :  8.53553e-09 Reference value :  8.60303e-09 Reference value :  8.67303e-09 Reference value :  8.81013e-09 Reference value :  8.91113e-09 Reference value :  9.01653e-09 Reference value :  9.11293e-09 Reference value :  9.24653e-09 Reference value :  9.37033e-09 Reference value :  9.49843e-09 Reference value :  9.64153e-09 Reference value :  9.78573e-09 Reference value :  9.90283e-09
+No. of Data Rows : 100008
+Note: Simulation executed from .control section 
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/ringosc/ringosc_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+x1.net1                               0.836006
+out                                   0.836006
+net1                                       1.8
+x1.net2                               0.836006
+v1#branch                         -5.11422e-05
+
+ Reference value :  0.00000e+00 Reference value :  4.00000e-15 Reference value :  5.92800e-12 Reference value :  1.16628e-10 Reference value :  2.67328e-10 Reference value :  3.81128e-10 Reference value :  5.32628e-10 Reference value :  6.88928e-10 Reference value :  8.45428e-10 Reference value :  9.93928e-10 Reference value :  1.08103e-09 Reference value :  1.18763e-09 Reference value :  1.30343e-09 Reference value :  1.43143e-09 Reference value :  1.55873e-09 Reference value :  1.67143e-09 Reference value :  1.77813e-09 Reference value :  1.87873e-09 Reference value :  2.00973e-09 Reference value :  2.13553e-09 Reference value :  2.28513e-09 Reference value :  2.38733e-09 Reference value :  2.52893e-09 Reference value :  2.58253e-09 Reference value :  2.68753e-09 Reference value :  2.79723e-09 Reference value :  2.95253e-09 Reference value :  3.10203e-09 Reference value :  3.23333e-09 Reference value :  3.39123e-09 Reference value :  3.54483e-09 Reference value :  3.66693e-09 Reference value :  3.82293e-09 Reference value :  3.97373e-09 Reference value :  4.13753e-09 Reference value :  4.24823e-09 Reference value :  4.40303e-09 Reference value :  4.52113e-09 Reference value :  4.64243e-09 Reference value :  4.78373e-09 Reference value :  4.91593e-09 Reference value :  5.04173e-09 Reference value :  5.15053e-09 Reference value :  5.26183e-09 Reference value :  5.40873e-09 Reference value :  5.54823e-09 Reference value :  5.69673e-09 Reference value :  5.83513e-09 Reference value :  5.99583e-09 Reference value :  6.09563e-09 Reference value :  6.21853e-09 Reference value :  6.32143e-09 Reference value :  6.46013e-09 Reference value :  6.60553e-09 Reference value :  6.75723e-09 Reference value :  6.86123e-09 Reference value :  6.96703e-09 Reference value :  7.10173e-09 Reference value :  7.22853e-09 Reference value :  7.38573e-09 Reference value :  7.53603e-09 Reference value :  7.62563e-09 Reference value :  7.73493e-09 Reference value :  7.84413e-09 Reference value :  7.98013e-09 Reference value :  8.12953e-09 Reference value :  8.23803e-09 Reference value :  8.34613e-09 Reference value :  8.46983e-09 Reference value :  8.57593e-09 Reference value :  8.70543e-09 Reference value :  8.81103e-09 Reference value :  8.96193e-09 Reference value :  9.11633e-09 Reference value :  9.24743e-09 Reference value :  9.38843e-09 Reference value :  9.50883e-09 Reference value :  9.60853e-09 Reference value :  9.74523e-09 Reference value :  9.90123e-09
+No. of Data Rows : 100008
+Note: Simulation executed from .control section 
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/ringosc/ringosc_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+x1.net1                               0.836006
+out                                   0.836006
+net1                                       1.8
+x1.net2                               0.836006
+v1#branch                         -5.11422e-05
+
+ Reference value :  0.00000e+00 Reference value :  4.00000e-15 Reference value :  1.28000e-13 Reference value :  1.02828e-10 Reference value :  2.38228e-10 Reference value :  3.48528e-10 Reference value :  4.80728e-10 Reference value :  5.90728e-10 Reference value :  7.22428e-10 Reference value :  8.64828e-10 Reference value :  1.02183e-09 Reference value :  1.12723e-09 Reference value :  1.24313e-09 Reference value :  1.33903e-09 Reference value :  1.45273e-09 Reference value :  1.58513e-09 Reference value :  1.74453e-09 Reference value :  1.90233e-09 Reference value :  1.98673e-09 Reference value :  2.12823e-09 Reference value :  2.23503e-09 Reference value :  2.39273e-09 Reference value :  2.54593e-09 Reference value :  2.70283e-09 Reference value :  2.86063e-09 Reference value :  3.02523e-09 Reference value :  3.12793e-09 Reference value :  3.21103e-09 Reference value :  3.31583e-09 Reference value :  3.45753e-09 Reference value :  3.61293e-09 Reference value :  3.75013e-09 Reference value :  3.90263e-09 Reference value :  4.05483e-09 Reference value :  4.21443e-09 Reference value :  4.36463e-09 Reference value :  4.51993e-09 Reference value :  4.65823e-09 Reference value :  4.79513e-09 Reference value :  4.91803e-09 Reference value :  5.06213e-09 Reference value :  5.17273e-09 Reference value :  5.31423e-09 Reference value :  5.42473e-09 Reference value :  5.57163e-09 Reference value :  5.72703e-09 Reference value :  5.87983e-09 Reference value :  6.01863e-09 Reference value :  6.14343e-09 Reference value :  6.25173e-09 Reference value :  6.37973e-09 Reference value :  6.52163e-09 Reference value :  6.66113e-09 Reference value :  6.79913e-09 Reference value :  6.93273e-09 Reference value :  7.04953e-09 Reference value :  7.17453e-09 Reference value :  7.29953e-09 Reference value :  7.43923e-09 Reference value :  7.55033e-09 Reference value :  7.66313e-09 Reference value :  7.77433e-09 Reference value :  7.92983e-09 Reference value :  8.08053e-09 Reference value :  8.20233e-09 Reference value :  8.24733e-09 Reference value :  8.41233e-09 Reference value :  8.56533e-09 Reference value :  8.70253e-09 Reference value :  8.86393e-09 Reference value :  8.98813e-09 Reference value :  9.12603e-09 Reference value :  9.26483e-09 Reference value :  9.38743e-09 Reference value :  9.49593e-09 Reference value :  9.63173e-09 Reference value :  9.72653e-09 Reference value :  9.83223e-09 Reference value :  9.93833e-09
+No. of Data Rows : 100008
+Note: Simulation executed from .control section 
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/bmott/tt_relative_path_test/xsch/tb/ringosc/ringosc_tb.sch
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+x1.net1                               0.836006
+out                                   0.836006
+net1                                       1.8
+x1.net2                               0.836006
+v1#branch                         -5.11422e-05
+
+ Reference value :  0.00000e+00 Reference value :  4.00000e-15 Reference value :  1.98280e-11 Reference value :  1.26428e-10 Reference value :  2.61528e-10 Reference value :  3.83328e-10 Reference value :  5.26028e-10 Reference value :  6.36628e-10 Reference value :  7.42628e-10 Reference value :  8.52128e-10 Reference value :  1.00173e-09 Reference value :  1.10423e-09 Reference value :  1.23703e-09 Reference value :  1.37863e-09 Reference value :  1.48883e-09 Reference value :  1.59063e-09 Reference value :  1.67773e-09 Reference value :  1.80203e-09 Reference value :  1.93413e-09 Reference value :  2.04703e-09 Reference value :  2.17543e-09 Reference value :  2.32503e-09 Reference value :  2.47803e-09 Reference value :  2.62653e-09 Reference value :  2.76823e-09 Reference value :  2.91743e-09 Reference value :  3.04343e-09 Reference value :  3.20503e-09 Reference value :  3.35593e-09 Reference value :  3.51073e-09 Reference value :  3.66023e-09 Reference value :  3.77953e-09 Reference value :  3.93733e-09 Reference value :  4.03943e-09 Reference value :  4.14683e-09 Reference value :  4.25833e-09 Reference value :  4.30063e-09 Reference value :  4.40243e-09 Reference value :  4.50193e-09 Reference value :  4.64143e-09 Reference value :  4.79363e-09 Reference value :  4.94983e-09 Reference value :  5.06083e-09 Reference value :  5.16383e-09 Reference value :  5.22893e-09 Reference value :  5.34403e-09 Reference value :  5.44783e-09 Reference value :  5.56603e-09 Reference value :  5.69043e-09 Reference value :  5.85393e-09 Reference value :  5.95743e-09 Reference value :  6.07203e-09 Reference value :  6.18683e-09 Reference value :  6.30283e-09 Reference value :  6.43373e-09 Reference value :  6.58693e-09 Reference value :  6.73453e-09 Reference value :  6.87493e-09 Reference value :  7.03003e-09 Reference value :  7.15023e-09 Reference value :  7.26543e-09 Reference value :  7.42053e-09 Reference value :  7.54093e-09 Reference value :  7.68603e-09 Reference value :  7.82033e-09 Reference value :  7.95743e-09 Reference value :  8.07093e-09 Reference value :  8.17963e-09 Reference value :  8.30693e-09 Reference value :  8.43743e-09 Reference value :  8.52333e-09 Reference value :  8.65113e-09 Reference value :  8.79793e-09 Reference value :  8.95053e-09 Reference value :  9.06603e-09 Reference value :  9.21943e-09 Reference value :  9.37443e-09 Reference value :  9.49033e-09 Reference value :  9.63393e-09 Reference value :  9.68923e-09 Reference value :  9.77853e-09 Reference value :  9.88403e-09 Reference value :  9.94283e-09
+No. of Data Rows : 100008
+Note: Simulation executed from .control section 

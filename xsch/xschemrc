@@ -33,6 +33,8 @@ append XSCHEM_LIBRARY_PATH ${XSCHEM_SHAREDIR}/xschem_library
 
 ## OLD append statement, replacing to allow relative file paths
 ##append XSCHEM_LIBRARY_PATH :[file dirname [info script]]
+
+## NEW append statements
 append XSCHEM_LIBRARY_PATH :[pwd]
 append XSCHEM_LIBRARY_PATH :[pwd]/ip
 append XSCHEM_LIBRARY_PATH :[pwd]/tb
